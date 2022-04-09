@@ -5,7 +5,7 @@
 
 ### Setup
 
-* There are comments on lines ("1 here" or "2 here") in the following files which you have to list some type of Id, should be self explanatory:
+* There are comments on lines in the following files which you have to list some type of Id, should be self explanatory:
   * [approve.js](https://github.com/MasterMercury/Marketplace-Bot/blob/main/commands/approve.js)
   * [collect.js](https://github.com/MasterMercury/Marketplace-Bot/blob/main/commands/collect.js)
   * [decline.js](https://github.com/MasterMercury/Marketplace-Bot/blob/main/commands/decline.js)
