@@ -1,0 +1,19 @@
+{
+    "black": "#000000",
+    "white": "#ffffff",
+    "grey": "969696",
+    "brown": "#522700",
+    "gold": "#D4AF37",
+    "red": "#ff321e",
+    "green": "#32ff1e",
+    "blue": "#00a2ff",
+    "purple": "#b700ff",
+    "yellow": "#ffff00",
+    "orange": "#ff7b00",
+    "cream": "#fffdd0",
+    "selling": "#ff3b58",
+    "buying": "#23ff40",
+    "hiring": "#1996ff",
+    "portfolio": "#a91eff",
+    "general": "#2dd295"
+}
