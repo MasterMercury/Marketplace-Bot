@@ -1,5 +1,5 @@
 {
-	"prefix": ["!gcc "],
+	"prefix": ["!"],
 
 	"bot_token": "",
 	"firebase_url": "",
