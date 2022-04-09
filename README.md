@@ -1,5 +1,5 @@
 # Marketplace Bot
-## Open-Source program written in discord.js by myself (with the help of another open-source project as the base)
+### Open-Source program written in discord.js by myself mostly (with the help of another open-source project as the base)
 
 ---
 
@@ -16,3 +16,4 @@
   * [messageReactionAdd.js](https://github.com/MasterMercury/Marketplace-Bot/blob/main/events/messageReactionAdd.js)
   * [config.js](https://github.com/MasterMercury/Marketplace-Bot/blob/main/settings/config.json) (in this one, the fields have been left blank for you to fill in)
 
+* You must also add a serviceAccountKey file to the [settings folder](https://github.com/MasterMercury/Marketplace-Bot/blob/main/settings), you can get this from your realtime database in firebase.
