@@ -17,3 +17,4 @@
   * [config.js](https://github.com/MasterMercury/Marketplace-Bot/blob/main/settings/config.json) (in this one, the fields have been left blank for you to fill in)
 
 * You must also add a serviceAccountKey file to the [settings folder](https://github.com/MasterMercury/Marketplace-Bot/blob/main/settings), you can get this from your realtime database in firebase.
+* The final thing you need to do is to find a place to host, and you'll be set to go!
