@@ -14,3 +14,4 @@
   * [submit.js](https://github.com/MasterMercury/Marketplace-Bot/blob/main/commands/submit.js)
   * [messageCreate.js](https://github.com/MasterMercury/Marketplace-Bot/blob/main/events/messageCreate.js)
   * [messageReactionAdd.js](https://github.com/MasterMercury/Marketplace-Bot/blob/main/events/messageReactionAdd.js)
+  * [config.js](https://github.com/MasterMercury/Marketplace-Bot/blob/main/settings/config.json) (in this one, the fields have been left blank for you to fill in)
