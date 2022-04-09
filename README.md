@@ -1,5 +1,5 @@
 # Marketplace Bot
-### Open-Source program written in discord.js by myself (with the help of another open-source project as the base)
+## Open-Source program written in discord.js by myself (with the help of another open-source project as the base)
 
 ---
 
@@ -15,3 +15,4 @@
   * [messageCreate.js](https://github.com/MasterMercury/Marketplace-Bot/blob/main/events/messageCreate.js)
   * [messageReactionAdd.js](https://github.com/MasterMercury/Marketplace-Bot/blob/main/events/messageReactionAdd.js)
   * [config.js](https://github.com/MasterMercury/Marketplace-Bot/blob/main/settings/config.json) (in this one, the fields have been left blank for you to fill in)
+
