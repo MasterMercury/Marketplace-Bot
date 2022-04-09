@@ -354,7 +354,7 @@ exports.run = async (Client, Message, Args) => {
             var PricingEmbed = new Discord.MessageEmbed()
                 .setColor(Color.general)
                 .setTitle(`${Mode} Post Pricing`)
-                .setDescription(`Please provide pricing: how much you're buying assets for, how much you're hiring for, or accepted payment methods. Please provide currencies that include, but are not limited to, Robux, USD, and GBP.`);
+                .setDescription(`Please provide pricing: how much you're buying assets for, how much you're hiring for, or accepted payment methods. Please provide currencies that include, but are not limited to, USD, GBP, and EUR.`);
             try {
                 Message.author.send({ embeds: [PricingEmbed] }).then(Msg => {
                     var Collector = Msg.channel.createMessageCollector({ MessageFilter, max: 1, time: 300000 });
