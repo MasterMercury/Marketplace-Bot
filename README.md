@@ -1,2 +1,2 @@
 # Marketplace Bot
- Open-Source program written in discord.js
+### Open-Source program written in discord.js
