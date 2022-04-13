@@ -1,7 +1,7 @@
 {
-  "name": "shanebot",
+  "name": "marketplacebot",
   "version": "1.0.0",
-  "description": "GCC Marketplace Bot",
+  "description": "Marketplace Bot",
   "main": "index.js",
   "dependencies": {
     "abort-controller": "^3.0.0",
@@ -272,16 +272,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BadUmBum/ShaneBot.git"
+    "url": "git+https://github.com/MasterMercury/Marketplace-Bot.git"
   },
   "keywords": [
-    "GCC",
     "Marketplace"
   ],
-  "author": "CipherFunctions",
+  "author": "MasterMercury",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BadUmBum/ShaneBot/issues"
+    "url": "https://github.com/MasterMercury/Marketplace-Bot/issues"
   },
-  "homepage": "https://github.com/BadUmBum/ShaneBot#readme"
+  "homepage": "https://github.com/MasterMercury/Marketplace-Bot#readme"
 }
