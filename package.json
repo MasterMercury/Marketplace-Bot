@@ -131,7 +131,7 @@
     "jose": "^2.0.5",
     "jsbn": "^0.1.1",
     "json-bigint": "^1.0.0",
-    "json-schema": "^0.2.3",
+    "json-schema": "^0.4.0",
     "json-schema-traverse": "^0.4.1",
     "json-stringify-safe": "^5.0.1",
     "jsonwebtoken": "^8.5.1",
