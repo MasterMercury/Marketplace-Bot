@@ -87,7 +87,7 @@
     "figlet": "^1.5.0",
     "file-uri-to-path": "^1.0.0",
     "firebase-admin": "^9.11.0",
-    "follow-redirects": "^1.14.1",
+    "follow-redirects": "^1.14.8",
     "forever-agent": "^0.6.1",
     "form-data": "^2.3.3",
     "fs-constants": "^1.0.0",
